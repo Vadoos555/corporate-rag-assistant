@@ -114,7 +114,7 @@ The application can be installed and its unit tests can be run without making pa
 Clone the repository and open its root directory:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Vadoos555/corporate-rag-assistant
 cd corporate-rag-assistant
 ```
 
